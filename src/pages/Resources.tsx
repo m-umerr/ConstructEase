@@ -260,7 +260,7 @@ const Resources = () => {
           <Button
             variant="outline"
             className="border-construction-700 text-construction-700 hover:bg-construction-50"
-            onClick={() => window.open('3.111.42.12:8080', '_blank')}
+            onClick={() => window.open('http://3.111.42.12:8080/', '_blank')}
           >
             <ShoppingCart className="h-4 w-4 mr-2" /> View Marketplace
           </Button>
