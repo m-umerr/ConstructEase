@@ -1,4 +1,4 @@
-# Edifice Operations Suite - Full Stack (Spring Boot + React)
+# ConstructEase - Full Stack (Spring Boot + React)
 
 A construction project management system with a Spring Boot backend and React/TypeScript frontend.
 
