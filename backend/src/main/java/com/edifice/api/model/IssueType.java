@@ -1,0 +1,15 @@
+package com.edifice.api.model;
+
+public enum IssueType {
+    DEFECT,
+    ENHANCEMENT,
+    CHANGE_REQUEST,
+    SAFETY_CONCERN,
+    MATERIAL_ISSUE,
+    EQUIPMENT_FAILURE,
+    WEATHER_RELATED,
+    PERMIT_ISSUE,
+    SCHEDULING_CONFLICT,
+    LABOR_SHORTAGE,
+    OTHER
+}

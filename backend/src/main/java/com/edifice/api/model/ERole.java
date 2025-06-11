@@ -1,0 +1,13 @@
+package com.edifice.api.model;
+
+public enum ERole {
+    ROLE_USER,
+    ROLE_MODERATOR,
+    ROLE_ADMIN,
+    ROLE_PROJECT_MANAGER,
+    ROLE_CONSTRUCTION_MANAGER,
+    ROLE_ENGINEER,
+    ROLE_CONTRACTOR,
+    ROLE_SUBCONTRACTOR,
+    ROLE_FINANCE_MANAGER
+}
